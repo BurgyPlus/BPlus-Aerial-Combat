@@ -16,7 +16,7 @@ Aerial Combat adds many features and mechanics to set PVP/PVE airborne.
 
 - "Aerial Combat Mode" is independent of "Auto Lock Mode" to allow players to use Aerial Combat without the limiting camera of Auto Lock. In turn, Auto Lock is fully compatible with default Minecraft combat.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Pg6pFSPENSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/Pg6pFSPENSE
 
 </details>
 
@@ -30,7 +30,7 @@ Aerial Combat adds many features and mechanics to set PVP/PVE airborne.
 
 - "Auto Lock Mode" is independent of "Aerial Combat Mode" to allow players to use Aerial Combat without the limiting camera of Auto Lock. In turn, Auto Lock is fully compatible with default Minecraft combat.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TTTIoSHuTXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/TTTIoSHuTXI
 
 </details>
 
@@ -40,7 +40,7 @@ Aerial Combat adds many features and mechanics to set PVP/PVE airborne.
 
 While "Aerial Combat Mode" is enabled, most attacks send the hit entity upwards.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Y4Aew7L3m1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/Y4Aew7L3m1A
 
 ### Upper Attack
 
@@ -50,7 +50,7 @@ While "Aerial Combat Mode" is enabled, most attacks send the hit entity upwards.
 
 - Particles will be emitted when the attack is done correctly.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mLnKoDI2fZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/mLnKoDI2fZE
 
 ### Smash Attack
 
@@ -60,10 +60,8 @@ While "Aerial Combat Mode" is enabled, most attacks send the hit entity upwards.
 
 - Particles will be emitted when the attack is done correctly.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/verjN3SBVCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/verjN3SBVCE
 
 Double jumping is essential for aerial combos.
 
 </details>
-
-You may add this mod to a modpack.
