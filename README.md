@@ -36,6 +36,23 @@ https://youtu.be/TTTIoSHuTXI
 
 </details>
 
+<details>
+<summary>Movement</summary>
+
+Aerial movement is essential in combos.
+
+### Air Jump
+
+- The player has infinite air jumps. This is the main way of moving in the air.
+
+https://youtu.be/TBMlffpOA08
+
+### Dash
+
+- The player has infinite dashes that boost the player in the direction they're looking. This is the easiest way to extend combos as the entity being attacked often gets out of reach while only using Air Jumps. Dashing is also the only consistent way to continue a combo after an Upper Attack.
+
+https://youtu.be/ciI9zqUF1eM
+</details>
 
 <details>
 <summary>Attacks</summary>
@@ -62,8 +79,5 @@ https://youtu.be/mLnKoDI2fZE
 
 - Particles will be emitted when the attack is done correctly.
 
-https://youtu.be/verjN3SBVCE
-
-Double jumping is essential for aerial combos.
-
+https://youtu.be/dY2_K8pRcgE
 </details>
