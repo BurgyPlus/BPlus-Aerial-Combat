@@ -1,4 +1,4 @@
-# B+ Aerial Combat
+# Aerial Combat
 ![Aerial Combat Title](https://cdn.modrinth.com/data/cached_images/c8094a53819b25cb0ad06006a47580483a3cd621.png)
 
 B+ Aerial Combat can be downloaded via its [Modrinth](https://modrinth.com/mod/b+-aerial-combat) page.
